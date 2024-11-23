@@ -1,5 +1,5 @@
 {
     "latest_version": "1.0.0",
-    "update_url": "https://drive.usercontent.google.com/download?id=1wmp9HZ_ljAGxuapp6zGD_2fot-q5RK6b&export=download&authuser=0&confirm=t&uuid=615d2071-7ed2-4771-a0d3-0a67149cf346&at=AENtkXZJ1YNgNSrjiHKHtx0cmANO:1732335943688"
+    "update_url": "https://drive.usercontent.google.com/download?id=1xwdVBHefx-v8geDMTKrVVMTr_Glq4SF_&export=download&authuser=0&confirm=t&uuid=313cce40-5e51-4e27-8af8-ef6ff0a15b2c&at=AENtkXaEdKLWfiVZoHr9jvE7sSrE:1732336436279"
 }
 

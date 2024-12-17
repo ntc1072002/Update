@@ -16,6 +16,7 @@
     "Lenovo System Update_url": "https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.08.03.59.exe",
     "Telegram_url": "https://td.telegram.org/tx64/tsetup-x64.5.9.0.exe",
     "FoxitPDFReader_url": "https://cdn78.foxitsoftware.com/product/reader/desktop/win/2024.3.0/FoxitPDFReader20243_enu_Setup_Prom.exe",
-    "Viber_url": "https://download.cdn.viber.com/desktop/windows/ViberSetup.exe"
+    "Viber_url": "https://download.cdn.viber.com/desktop/windows/ViberSetup.exe",
+    "Premiere_url": "https://download1580.mediafire.com/3j28qta4ydwgEe9P7dK1Fk3B5JXMl1g7R7pEjCR3CeUMS4wIBjiAfFg643DnddTZmxvwckg-SFkXVAS8m4lsoibAtZZZWlakCwTGrhW_e9yN8dIXg3an4uLadGFxMDFFNtNUWSp1WiOFjSzSMixRbDMZoMyDPtXKqxhJdnUkQYU84Q/2ytiawmqbrvh28c/Adobe+Premiere+Pro+2024.zip"
 }
 

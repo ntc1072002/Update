@@ -13,5 +13,8 @@
     "Crack Office_url": "https://drive.usercontent.google.com/download?id=11qlPXT1Tbwp5DGl8SwJloEK5j6Uztxl8&export=download&authuser=0&confirm=t&uuid=24f5b893-1aa4-403f-98ec-837795e1c6d2&at=APvzH3rrZn2l7Do6RcMzld08P0oQ:1733570843345",
     "Zoom_url": "https://cdn.zoom.us/prod/6.2.11.50939/ZoomInstaller.exe",
     "Zalo_url": "https://res-download-pc-te-vnso-pt-51.zadn.vn/win/ZaloSetup-24.12.1.exe",
+    "Lenovo System Update_url": "https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.08.03.59.exe",
+    "Telegram_url": "https://td.telegram.org/tx64/tsetup-x64.5.9.0.exe",
+    "FoxitPDFReader_url": "https://cdn78.foxitsoftware.com/product/reader/desktop/win/2024.3.0/FoxitPDFReader20243_enu_Setup_Prom.exe",
 }
 

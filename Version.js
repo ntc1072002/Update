@@ -16,5 +16,6 @@
     "Lenovo System Update_url": "https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.08.03.59.exe",
     "Telegram_url": "https://td.telegram.org/tx64/tsetup-x64.5.9.0.exe",
     "FoxitPDFReader_url": "https://cdn78.foxitsoftware.com/product/reader/desktop/win/2024.3.0/FoxitPDFReader20243_enu_Setup_Prom.exe",
+    "Viber": "https://download.cdn.viber.com/desktop/windows/ViberSetup.exe"
 }
 
